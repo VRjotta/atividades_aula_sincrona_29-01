@@ -42,4 +42,4 @@ Este projeto implementa dois sistemas utilizando o microcontrolador Raspberry Pi
 2. Configure o ambiente do Pico SDK no VS Code.
 3. Abra o simulador Wokwi e carregue o código.
 4. Compile e execute o código.
-
+5. Inicie a simulação.
