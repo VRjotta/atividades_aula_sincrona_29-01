@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\atividade-aula-2902.hex'
+elf = 'build\atividade-aula-2902.elf'
