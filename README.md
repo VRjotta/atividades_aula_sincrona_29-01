@@ -37,7 +37,7 @@ Este projeto implementa dois sistemas utilizando o microcontrolador Raspberry Pi
 ## Como Executar o Projeto
 1. Clone este repositório:
    ```sh
-   git clone <URL_DO_REPOSITORIO>
+   git clone <git@github.com:VRjotta/atividades_aula_sincrona_29-01.git>
    ```
 2. Configure o ambiente do Pico SDK no VS Code.
 3. Abra o simulador Wokwi e carregue o código.
